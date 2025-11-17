@@ -22,7 +22,7 @@
 
 ## 📊 GitHub Stats
 
-([![GitHub Streak](https://streak-stats.demolab.com/?user=razinShk)](https://git.io/streak-stats))
+[![GitHub Streak](https://streak-stats.demolab.com/?user=razinShk)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=razinShk&layout=compact&theme=tokyonight)
 
