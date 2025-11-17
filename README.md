@@ -24,6 +24,8 @@
 
 ![Razin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=razinShk&show_icons=true&theme=tokyonight)
 
+![Razin's GitHub Statistics]([![GitHub Streak](https://streak-stats.demolab.com/?user=razinShk)](https://git.io/streak-stats))
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=razinShk&layout=compact&theme=tokyonight)
 
 ---
