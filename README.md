@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Razin 👋</h1>
 
 ## 🚀 About Me
-- 💻 MERN Stack Developer  
+- 💻 Full Stack Developer  
 - 🤖 Learning AI, Computer Vision & ML  
 - ⚽ Love Football and Tech  
 - 🎨 Passionate about UI/UX and visual design  
